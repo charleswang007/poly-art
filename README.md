@@ -3,6 +3,14 @@
 ## Reference
 1. https://cosmiccoding.com.au/tutorials/lowpoly
 
+## Basic Approach
+1. Load our image in
+2. Manipulate the image to highlight edges and areas of detail
+3. Draw potential vertices from those areas
+4. Calculate triangles from vertices
+5. Determine the colour of the triangles
+6. Plot the image
+
 ## Orginal
 ![original.jpg](images/original.jpg "original")
 
@@ -20,4 +28,7 @@
 ![0040.png](images/0040.png "0040")
 ![0070.png](images/0070.png "0070")
 ![0099.png](images/0099.png "0099")
+
+## Animation with ffmpeg
+![gif](images/animation.gif)
 
