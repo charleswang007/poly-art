@@ -2,6 +2,7 @@
 
 ## Reference
 1. https://cosmiccoding.com.au/tutorials/lowpoly
+2. https://www.dailymail.co.uk/news/article-6646643/Not-grrreat-Labour-pushes-ban-Tony-Tiger-cartoon-characters-cereal-packets.html
 
 ## Basic Approach
 1. Load our image in
