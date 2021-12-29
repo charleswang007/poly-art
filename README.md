@@ -32,5 +32,8 @@
 ![0099.png](images/0099.png "0099")
 
 ## Animation with ffmpeg
+```
+ffmpeg -framerate 1 -i '%04d.png' -c:v libx264 -r 300 -pix_fmt yuv420p out.mp4
+```
 ![gif](images/tiger.gif)
 
