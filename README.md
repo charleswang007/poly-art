@@ -30,5 +30,5 @@
 ![0099.png](images/0099.png "0099")
 
 ## Animation with ffmpeg
-![gif](images/animation.gif)
+![gif](images/tiger.gif)
 
